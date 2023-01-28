@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client-Sender", "Client-Sender\Client-Sender.csproj", "{C2388A73-A908-47EE-A19A-DEAF9D8D7FC4}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API-Reciever", "API-Reciever\API-Reciever.csproj", "{2DEC2E17-AAE4-4740-BB32-6819DE11C802}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormDataSender", "FormDataSender\FormDataSender.csproj", "{155FFBF8-2835-40C5-88AA-17D314985C37}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormDataReciever", "FormDataReciever\FormDataReciever.csproj", "{1475CE9C-2923-4B6A-BB7C-02B3A3695F21}"
@@ -17,14 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C2388A73-A908-47EE-A19A-DEAF9D8D7FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C2388A73-A908-47EE-A19A-DEAF9D8D7FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C2388A73-A908-47EE-A19A-DEAF9D8D7FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C2388A73-A908-47EE-A19A-DEAF9D8D7FC4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2DEC2E17-AAE4-4740-BB32-6819DE11C802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2DEC2E17-AAE4-4740-BB32-6819DE11C802}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2DEC2E17-AAE4-4740-BB32-6819DE11C802}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2DEC2E17-AAE4-4740-BB32-6819DE11C802}.Release|Any CPU.Build.0 = Release|Any CPU
 		{155FFBF8-2835-40C5-88AA-17D314985C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{155FFBF8-2835-40C5-88AA-17D314985C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{155FFBF8-2835-40C5-88AA-17D314985C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
